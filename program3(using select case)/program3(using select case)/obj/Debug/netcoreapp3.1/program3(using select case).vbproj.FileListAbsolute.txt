@@ -1,0 +1,14 @@
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\bin\Debug\netcoreapp3.1\program3(using select case).exe
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\bin\Debug\netcoreapp3.1\program3(using select case).deps.json
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\bin\Debug\netcoreapp3.1\program3(using select case).runtimeconfig.json
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\bin\Debug\netcoreapp3.1\program3(using select case).runtimeconfig.dev.json
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\bin\Debug\netcoreapp3.1\program3(using select case).dll
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\bin\Debug\netcoreapp3.1\program3(using select case).pdb
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\obj\Debug\netcoreapp3.1\program3(using select case).GeneratedMSBuildEditorConfig.editorconfig
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\obj\Debug\netcoreapp3.1\program3(using select case).AssemblyInfoInputs.cache
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\obj\Debug\netcoreapp3.1\program3(using select case).AssemblyInfo.vb
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\obj\Debug\netcoreapp3.1\program3(using select case).vbproj.CoreCompileInputs.cache
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\obj\Debug\netcoreapp3.1\program3(using select case).dll
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\obj\Debug\netcoreapp3.1\program3(using select case).pdb
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\obj\Debug\netcoreapp3.1\program3(using select case).genruntimeconfig.cache
+E:\0ther College\VB.NET\Assignment Program\Assignment 2\program3(using select case)\program3(using select case)\obj\Debug\netcoreapp3.1\program3(using select case).vbproj.AssemblyReference.cache
